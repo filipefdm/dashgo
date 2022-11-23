@@ -12,6 +12,8 @@
   </a>
 </p>
 
+<img src=".github/mockup.png"/>
+
 # Temas
 
 - [O que é o Dashgo?](#o-que-é-o-dashgo)
