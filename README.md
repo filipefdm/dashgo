@@ -22,7 +22,17 @@
 
 ## O que é o Dashgo?
 
-<b>Dashgo</b> é uma aplicação em React, desenvolvido durante um dos capítulos do Ignite da Rocketseat para dashboard's em geral com páginas e paginação, login e sistema de inclusão de usuários usando completamente o Chakra UI, também deixando a aplicação responsiva.
+O <b>Dashgo</b> é uma aplicação em React que consiste em um dashboard responsivo com páginas, paginação, sistema de login e inclusão de usuários. O principal objetivo do projeto é fornecer uma interface amigável e intuitiva para a gestão de dados e informações em um ambiente administrativo.
+
+## Principais Funcionalidades:
+
+- Dashboard: O Dashgo possui um painel de controle onde é possível visualizar estatísticas e métricas relevantes, como número de usuários registrados, vendas, visualizações, entre outros dados.
+
+- Páginas e Paginação: A aplicação permite a criação de páginas com conteúdo dinâmico, utilizando recursos de paginação para facilitar a navegação e exibição de informações em conjunto.
+
+- Sistema de Login: O Dashgo possui um sistema de autenticação, permitindo que os usuários acessem o painel por meio de login e senha.
+
+- Inclusão de Usuários: Além do sistema de login, o projeto também oferece uma funcionalidade para adicionar novos usuários ao sistema, permitindo a gestão de permissões e acessos.
 
 ## Tecnologias
 
@@ -42,10 +52,13 @@ Foram utilizadas as seguintes tecnologias e ferramentas:
 ```bash
 # Clone o repositório:
 git clone https://github.com/filipefdm/dashgo.git
+
 # Acesse a pasta do projeto:
 cd dashgo
+
 # Instalando as dependências do projeto:
 npm install
+
 # Rodando a aplicação:
 npm run dev
 ```
